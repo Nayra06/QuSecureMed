@@ -120,4 +120,3 @@ CoCoef(Host_image,Watermarked,ExtractedWatermark,Watermark);
 
 %%%%%%%%%%%%%%%%%%%
 
-Please cite this article

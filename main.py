@@ -1,11 +1,4 @@
-%                      
-%
-% ----------------- Code for "Multimodal fusion-based image hiding algorithm for secure healthcare system" in IEEE Intelligent System -----------------
-%
-% O. P. Singh, A. K. Singh, and H. Zhou , "Multimodal fusion-based image hiding algorithm for secure healthcare system," 2022, IEEE Intelligent System,
-%
-for any query, you can contact me at omprakash7667@gmail.com
-% -------------------------------------------------------------------------
+
 
 clc; 
 clear all;
